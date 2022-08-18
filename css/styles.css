@@ -1,0 +1,22 @@
+body {
+  background-color: #f0fbf8;
+
+}
+hr {
+  border-style: dotted none none none;
+  border-width: 8px;
+  border-color: #112031;
+  width: 8%;
+}
+
+h1 {
+  color: #2a4a50;
+}
+h2 {
+  color: #345B63;
+  font-family: cursive;
+}
+
+.topcenter {
+  text-align: center;
+}
